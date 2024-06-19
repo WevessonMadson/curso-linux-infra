@@ -31,4 +31,6 @@ Repositório do curso de linux DEVOPS.
 
 [Usuários linux](./Usuarios.md)
 
+[Gerenciamento de discos](./Discos.md)
 
+[Criação de Scripts](./Scripts.md)
