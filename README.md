@@ -34,3 +34,9 @@ Repositório do curso de linux DEVOPS.
 [Gerenciamento de discos](./Discos.md)
 
 [Criação de Scripts](./Scripts.md)
+
+<br><br>
+
+[Certificado:](./assets/certificado.pdf)
+
+<img src="./assets/certificado.png" alt="imagem do certificado de conclusão">
